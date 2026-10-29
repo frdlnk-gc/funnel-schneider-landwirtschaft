@@ -1,0 +1,129 @@
+{
+ "firma": "Schneider Landwirtschaft",
+ "stelle": "Betriebsleiter Biogasanlage (m/w/d)",
+ "ort": "Gründau",
+ "plz": "63584",
+ "branche": "landwirtschaft",
+ "farbe_primary": "#AD462E",
+ "farbe_secondary": "#ECAB35",
+ "region_badge": "Gründau & Umgebung",
+ "benefit_top": "Kurzer Freitag",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Kurzer Freitag & flexible Arbeitszeiten",
+  "Kostenübernahme für berufliche Zertifizierungen",
+  "Betriebliche Altersvorsorge",
+  "Kostenlose Mahlzeiten bzw. Verpflegungspauschale",
+  "Jobrad-Leasing",
+  "Anhängerführerschein – Kosten werden übernommen",
+  "Hilfe bei der Wohnungssuche",
+  "Flache Hierarchien & freundliches Arbeitsklima",
+  "Regelmäßige Firmenfeiern"
+ ],
+ "aufgaben": [
+  "Du steuerst, überwachst und optimierst den laufenden Betrieb der 2-MW-Biogasanlage im Flexbetrieb – inklusive der biologischen Prozesse",
+  "Du sorgst für hohe Anlagenverfügbarkeit und optimale Energieausbeute, erkennst und behebst technische Störungen",
+  "Du planst Wartung, Reparatur und Instandhaltung und koordinierst externe Dienstleister und Fachfirmen",
+  "Du organisierst die Substratversorgung, dokumentierst Kennzahlen und kümmerst dich um Ersatzteile und Material",
+  "Du übernimmst den turnusmäßigen Wochenenddienst – in der Regel jedes dritte Wochenende"
+ ],
+ "anforderung": "Eine technische, landwirtschaftliche oder vergleichbare Ausbildung und Erfahrung aus Biogas, Energieerzeugung, Landtechnik, Elektrotechnik, Mechatronik oder Anlagenbau. Erfahrung mit Biogasanlagen ist von Vorteil – entscheidender sind technisches Verständnis, Engagement und die Bereitschaft, dich intensiv einzuarbeiten. Dazu Führerschein Klasse B.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Technik (Elektro, Mechatronik, Anlagenbau)",
+   "icon": "🔧",
+   "qualifikationen": [
+    {
+     "label": "Technische Ausbildung",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Technisch erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Landwirtschaft / Landtechnik",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Landwirtschaftliche Ausbildung",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Biogas / Energieerzeugung",
+   "icon": "⚡",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung + Erfahrung mit Biogasanlagen",
+     "icon": "🎓"
+    },
+    {
+     "label": "Erfahrung ohne passende Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Vergleichbare Ausbildung",
+     "icon": "📘"
+    },
+    {
+     "label": "Technisch versierter Quereinsteiger",
+     "icon": "💡"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "1648",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "30",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "2 MW",
+    "label": "Biogas"
+   }
+  ],
+  "text": "Die Schneider Landwirtschaft GmbH auf dem Friedrichshof in Gründau ist ein Familienbetrieb, gegründet im Jahr 1648. Mit rund 800 Kühen, rund 800 Hektar Ackerbau und einer eigenen 2-MW-Biogasanlage im Flexbetrieb verbindet der Betrieb Milchviehhaltung, Ackerbau und Energieerzeugung – traditionelle Landwirtschaft mit moderner Technik."
+ },
+ "kunde_tab": "37 Schneider Landwirtschaft",
+ "quelle": "https://schneider-landwirtschaft.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Gründau"
+ },
+ "hero_bild": "img/hero-biogasanlage.jpg",
+ "bilder": [
+  "img/f2-biogasanlage.jpg",
+  "img/f3-fermenter.jpg",
+  "img/f1-hofanlage.jpg",
+  "img/f4-stall.jpg"
+ ]
+}
