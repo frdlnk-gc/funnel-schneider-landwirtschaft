@@ -1,0 +1,23 @@
+[
+ {
+  "name": "creative-1-karten-hook",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-biogasanlage.jpg",
+  "fokus": [
+   0.55,
+   0.5
+  ],
+  "karte": "img/karte.jpg",
+  "primary": "#AD462E",
+  "headline": [
+   "BETRIEBSLEITER",
+   "BIOGASANLAGE"
+  ],
+  "headline_zusatz": "(m/w/d) · unbefristet",
+  "pill": [
+   "Ohne Lebenslauf &",
+   "Anschreiben!"
+  ],
+  "ort": "Gründau · Gelnhausen · Hanau"
+ }
+]

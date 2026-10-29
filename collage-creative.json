@@ -1,0 +1,37 @@
+[
+ {
+  "name": "creative-2-collage",
+  "logo": "logo-weiss-hd.png",
+  "fotos": [
+   "img/foto-hd-fermenter.jpg",
+   "img/foto-hd-hofanlage.jpg",
+   "img/foto-hd-stall.jpg"
+  ],
+  "fokus": [
+   [
+    0.6,
+    0.5
+   ],
+   [
+    0.3,
+    0.5
+   ],
+   [
+    0.5,
+    0.5
+   ]
+  ],
+  "primary": "#AD462E",
+  "headline": [
+   "Betriebsleiter",
+   "Biogasanlage"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "2-MW-Biogasanlage in Gründau",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ }
+]
